@@ -4,4 +4,4 @@
   - Data retrieval from LSEG using Python
   - Scientific projects using R such as e.g. evaluation of ESG
   - Head teacher of a master's course in scientific methods
-  - Holding seminars for performing event studies and portfolio sorts using R
+    - Where I also am holding seminars for performing event studies and portfolio sorts using R
